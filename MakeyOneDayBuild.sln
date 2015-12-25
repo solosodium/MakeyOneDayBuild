@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D6CD575C-0DD3-8B69-4586-29A33EFE87C9}") = "MakeyOneDayBuild", "Assembly-CSharp.csproj", "{EC038E50-7055-FE01-AFCE-DAF60875BE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC038E50-7055-FE01-AFCE-DAF60875BE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC038E50-7055-FE01-AFCE-DAF60875BE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC038E50-7055-FE01-AFCE-DAF60875BE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC038E50-7055-FE01-AFCE-DAF60875BE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
