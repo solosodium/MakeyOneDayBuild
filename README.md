@@ -1,5 +1,5 @@
 # MakeyOneDayBuild
-A Makey Makey Go game and input handling helper
+A Makey Makey Go game and input handling helper.
 
 ## Intro
 This repo contains a complete game built with Unity3D and an [input handling helper script] (Assets/Scripts/MakeyGoInput.cs) for Makey Makey Go with the following features:
@@ -8,7 +8,7 @@ This repo contains a complete game built with Unity3D and an [input handling hel
 * Identify and count repeated clicks
 
 ## Example
-Attach the MakeyGoInput.cs to any object in your scene and set up the parameters for MakeyGoInput.cs in inspector
+Attach the MakeyGoInput.cs to any object in your scene and set up the parameters for MakeyGoInput.cs in inspector.
 
 ![alt tag](http://4.bp.blogspot.com/-kqxSG2pqFwU/Vn1CQ705I0I/AAAAAAAAAUk/FI1mAKqBnnE/s1600/Screen%2BShot%2B2015-12-25%2Bat%2B9.17.13%2BPM.png)
 
@@ -27,7 +27,7 @@ void MyHandler (int clicks) {
 ```
 
 ## Blog
-If you need more info, go [here] (http://randomcodingstuff.blogspot.com/2015/12/makey-makey-go-one-day-build.html)
+If you need more info, go [here] (http://randomcodingstuff.blogspot.com/2015/12/makey-makey-go-one-day-build.html).
 
 ## Licence
 
