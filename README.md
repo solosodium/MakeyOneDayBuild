@@ -1,8 +1,10 @@
 # MakeyOneDayBuild
 A Makey Makey Go game and input handling helper.
 
+![tag](http://4.bp.blogspot.com/-qeERdGitlVE/Vn1FHNW0i_I/AAAAAAAAAUw/5mbj84VQvns/s1600/giphy.gif)
+
 ## Intro
-This repo contains a complete game built with Unity3D and an [input handling helper script] (Assets/Scripts/MakeyGoInput.cs) for Makey Makey Go with the following features:
+This repo contains a complete game built with Unity3D and an [input handling helper script](Assets/Scripts/MakeyGoInput.cs) for Makey Makey Go with the following features:
 * Delegate and event for input trigger callback
 * Support input selection (mouse click / space / either)
 * Identify and count repeated clicks
@@ -10,7 +12,7 @@ This repo contains a complete game built with Unity3D and an [input handling hel
 ## Example
 Attach the MakeyGoInput.cs to any object in your scene and set up the parameters for MakeyGoInput.cs in inspector.
 
-![alt tag](http://4.bp.blogspot.com/-kqxSG2pqFwU/Vn1CQ705I0I/AAAAAAAAAUk/FI1mAKqBnnE/s1600/Screen%2BShot%2B2015-12-25%2Bat%2B9.17.13%2BPM.png)
+![tag](http://4.bp.blogspot.com/-kqxSG2pqFwU/Vn1CQ705I0I/AAAAAAAAAUk/FI1mAKqBnnE/s1600/Screen%2BShot%2B2015-12-25%2Bat%2B9.17.13%2BPM.png)
 
 ```csharp
 // add this in your behavior script
