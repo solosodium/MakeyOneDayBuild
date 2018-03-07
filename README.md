@@ -27,7 +27,7 @@ void MyHandler (int clicks) {
 ```
 
 ## Blog
-If you need more info, go [here] (http://randomcodingstuff.blogspot.com/2015/12/makey-makey-go-one-day-build.html).
+If you need more info, go [here](http://randomcodingstuff.blogspot.com/2015/12/makey-makey-go-one-day-build.html).
 
 ## Licence
 
